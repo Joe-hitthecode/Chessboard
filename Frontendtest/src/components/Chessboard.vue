@@ -340,7 +340,7 @@ border-radius: 20px;
 
 .sidebar{
 background-color: gray;
-margin-top: 320px;
+margin-top: 20px;
 width: 400px;
 height: 120px;
 margin-left: 10%;
@@ -361,7 +361,10 @@ font-size: 13px;
 
 
 }
-
+.container{
+margin-left: -40px;
+margin-top: -80px;
+}
 
  @media only screen and (min-width: 1024px) {
   .container{
@@ -369,11 +372,11 @@ font-size: 13px;
  
 }
 .sidebar{
-margin-right: -2px;
-margin-left: 40px;
+margin-right: -20px;
+margin-left: 10px;
 margin-top: 10px;
 height: 400px;
-width: 350px;
+width: 320px;
 font-size: 20px;
 border-radius:20px;
 
@@ -384,7 +387,7 @@ border-radius:20px;
 }
 
 .square-1, .square-2,.square-3, .square-4 {
- padding: 60px;
+ padding: 50px;
  margin: 0px;
  height: 62.50px;
  width: 62.50px;
@@ -392,22 +395,22 @@ border-radius:20px;
  
 }
 .square-5, .square-6,.square-7, .square-8 {
- padding: 60px;
+ padding: 50px;
  margin: 0px;
  height:62.50px;
  width: 62.50px;
 }
 .container{
 
-margin-right: 100px;
-margin-top:30px;
-margin-left: 200px;
+margin-right: -250px;
+margin-top:-80px;
+margin-left: px;
 width: 1400px;
 
 }
 .ui-light{
 
-margin-left: -250px;
+margin-left: -220px;
 margin-top:190px;
 width: 15px;
 }

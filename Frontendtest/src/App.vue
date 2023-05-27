@@ -71,7 +71,7 @@ justify-content: center;
 background: white;
 color:black;
 height: 200px;
-margin-top: -80px;
+margin-top: -100px;
 padding: 0px;
 width: 400px;
 margin-left: 10%
@@ -82,6 +82,7 @@ text-align:center;
 color:gray;
 font-style:'Lexend Deca', sans-serif;
 display:flex;
+font-size: 17px;
 
 }
 .chess-img{
@@ -93,7 +94,7 @@ margin-left: -1px;
  @media only screen and (min-width: 1024px) {
  
  .chess-img{
- margin-left: 400px;
+ margin-left: 320px;
 
  }
  .board-container{

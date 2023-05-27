@@ -24,11 +24,13 @@ body{
 
   background-color:black;
   display:flex;
+  
 }
 @media (min-width: 1024px) {
   body {
     display: grid;
     place-items: center;
+    
   }
 
 }
