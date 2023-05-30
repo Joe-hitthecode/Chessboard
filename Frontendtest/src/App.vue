@@ -1,6 +1,6 @@
 <script setup>
 import Chessboard from './components/Chessboard.vue'
-import Sidebar from './components/Sidebar.vue'
+
 </script>
 
 <template>
